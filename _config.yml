@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Chapter Summaries: "https://beautifuljekyll.com"
     - Book: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: ""
 
 ################
 # --- Logo --- #
@@ -50,12 +50,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: manas@umbc.edu
+  email: "manas@umbc.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  youtube: @kai-square-umbc
+  youtube: "@kai-square-umbc"
+  linkedin: manasgaur
 #  medium: yourname
 #  reddit: yourname
-  linkedin: manasgaur
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -69,8 +69,8 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-   ORCID: 0000-0002-5411-2230
-   google-scholar: https://scholar.google.com/citations?user=VJ8ZdCEAAAAJ&hl=en&oi=ao
+#  ORCID: 0000-0002-5411-2230
+#  google-scholar: https://scholar.google.com/citations?user=VJ8ZdCEAAAAJ&hl=en&oi=ao
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
