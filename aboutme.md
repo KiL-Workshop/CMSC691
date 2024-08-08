@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Instructor
+title: Manas Gaur
 subtitle: 
 ---
 
-My name is Manas Gaur. I am an Assistant Professor in the Department of Computer Science and Electrical Engineering. 
+I am an Assistant Professor in the Department of Computer Science and Electrical Engineering. 
 I am passionate about
 
 - Artificial Intelligence
@@ -12,6 +12,7 @@ I am passionate about
 - Conversational Systems
 - Neurosymbolic AI
 - CREST Framework (Consistency, Reliability, Explainability, Safety, & Trust)
+- Knowledge-infused Learning
 
 
 ### My hobbies
