@@ -52,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: manas@umbc.edu
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  youtube: @kai-square-umbc
+#  youtube: @kai-square-umbc
 #  medium: yourname
 #  reddit: yourname
   linkedin: manasgaur
